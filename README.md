@@ -1,5 +1,5 @@
 # auto-image-thumbnail
-Bash script to automatically resize images to thumbnails
+Shell script to automatically make thumbnails from images.
 
 ## Invoking
 To run this, you must define the following parameters:
@@ -13,6 +13,7 @@ Output directory without first slash
 
 #### Example:
 `bash index.sh 192x192 50% output`
+This will resize all images in the directory to 192x192 with 50% JPEG compression and save them to `/output/filename`.
 
 ## Parameters inside the script
 

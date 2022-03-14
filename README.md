@@ -12,7 +12,7 @@ Output image quality with percent sign
 Output directory without first slash
 
 #### Example:
-`bash index.sh "192x192" "50%" "done"`
+`bash index.sh 192x192 50% output`
 
 ## Parameters inside the script
 

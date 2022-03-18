@@ -1,6 +1,9 @@
 # auto-image-thumbnail
 Shell script to automatically make thumbnails from images.
 
+## Requires package: imagemagick
+``sudo apt install imagemagick``
+
 ## Invoking
 To run this, you must define the following parameters:
 
